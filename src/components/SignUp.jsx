@@ -140,8 +140,8 @@ const SignupPage = () => {
                 htmlFor="termsCheck"
                 className="signup-form-checkbox-label"
               >
-                I hereby provide my consent to GOKADDAL INC to gather, store and
-                use my Email ID for business purposes only. By creating an
+                I hereby provide my consent to SectorStream INC to gather, store
+                and use my Email ID for business purposes only. By creating an
                 account, I agree to the Terms of Service and Privacy Policy. I
                 may unsubscribe at any time. In order to register an account, I
                 understand that I am required to adhere to the Terms and

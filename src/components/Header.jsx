@@ -108,7 +108,7 @@ const Header = () => {
             src={LogoNew}
             alt="GoKaddle logo"
           />
-          Township
+          SectorStream
         </Navbar.Brand>
         <Navbar.Toggle aria-controls="basic-navbar-nav" />
         <Navbar.Collapse id="basic-navbar-nav">
@@ -183,11 +183,6 @@ const Header = () => {
                 </Dropdown.Menu>
               </Dropdown>
             )}
-            <Nav.Item>
-              <Nav.Link as={Link} to="https://www.gokaddal.com">
-                Gokaddal
-              </Nav.Link>
-            </Nav.Item>
             <Nav.Item>
               <Nav.Link as={Link} to="/knowledgebase">
                 Knowledge Base
